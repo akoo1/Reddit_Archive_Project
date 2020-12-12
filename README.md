@@ -1,5 +1,7 @@
 # Reddit_Archive_Project
 
 ```
-![Data flowchart](data_flowchart/reddit_dataset_flowchart.png?raw=true "Title")
+![Data flowchart](https://github.com/akoo1/Reddit_Archive_Project/blob/main/data_flowchart/reddit_dataset_flowchart.png?raw=true)
 ```
+
+

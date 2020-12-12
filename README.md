@@ -10,7 +10,7 @@ Societal views regarding the LGBTQ+ community have been historically negative, b
 #### Dataset and Workflow:
 The data we used to conduct our research is from the Reddit Archive from January of 2009 to May of 2015. The data was stored on ManeFrame II, a shared high-performance computing environment implemented by Southern Methodist University. The reason we chose the data during this period of time is because the M2 database only has Reddit Archive from October of 2007 to May of 2015. 
 
-![Data flowchart](https://github.com/akoo1/Reddit_Archive_Project/blob/main/data_flowchart/reddit_dataset_flowchart.png?raw=true)
+![Data flowchart](https://github.com/akoo1/Reddit_Archive_Project/blob/main/Data%20Flowchart/reddit_dataset_flowchart.png?raw=true)
 
 
 

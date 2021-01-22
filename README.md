@@ -18,3 +18,5 @@ The data we used to conduct our research is from the Reddit Archive from January
 
 
 To see the full documentation of the project, please see the Report folder.
+
+Co-author: Kendall Kaske

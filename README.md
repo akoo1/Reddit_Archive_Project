@@ -1,5 +1,8 @@
 # Reddit Archive Project
 
+#### Overview:
+A data analysis of how the language regarding the LGBT community has changed on Reddit by analyzing and visualizing Reddit Archive from 2009 to 2015 using Python, Pandas, NumPy, spaCy, and Matplotlib.
+
 #### Question: 
 How has language regarding  the LGBT+ community changed over time?
 
